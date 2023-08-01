@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on K8's and Terraform<br>👯 I’m looking to collaborate on any DevOps Project<br>🤝 I’m looking for help with IaC and Advance K8's<br>🌱 I’m currently learning Chef and Puppet<br>"A DevOps Engineer with a passion for learning and improving. I believe that the only limits we have are the ones we set for ourselves and I'm excited to see how far I can go with my career.<br>With hard work and dedication, I'm confident that I can create something that really makes a difference."
+### A DevOps Engineer ♾ with a passion for learning and improving. I believe that the only limits we have are the ones we set for ourselves and I'm excited to see how far I can go with my career. With hard work and dedication, I'm confident that I can create something that really makes a difference.❤🕊
 
 
 # 💻 Tech Stack:
